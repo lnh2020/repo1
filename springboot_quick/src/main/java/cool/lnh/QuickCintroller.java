@@ -11,4 +11,8 @@ public class QuickCintroller {
     public String quick(){
         return "测试Springboot是否成功!";
     }
+
+    public void test(){
+        System.out.println("123");
+    }
 }
